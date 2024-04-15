@@ -24,3 +24,7 @@
     -> Middlewares/
     -> Utils
     -> etc...
+
+## Below Is A Basic Flow Of Backend -- 
+
+<img src="backend.png">
