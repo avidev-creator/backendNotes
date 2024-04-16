@@ -61,6 +61,13 @@ Is this OK? (yes)
 
 Here Node will guide you by asking questions and you can setup your first backend.
 
+When you feel like you are confident enough you can skip all this by using below command
+and it will not ask a single question -- 
+
+```
+npm init -y
+```
+
 ## Important --
 
 Very important thing to note here is --
