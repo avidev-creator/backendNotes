@@ -7,7 +7,8 @@
 
 2. Use — caching, authentication , manage state
 
-3. Core Headers -- 
+3. Core Headers --
+   
     a. Request Headers — From Client
 
     b. Response Headers — From Server
